@@ -46,3 +46,4 @@ When the "Generate" button is clicked, the following should be displayed:
 ## Key Takeaways
 
 This assignment helps you see how randomness can affect regression estimates. By experimenting with different parameters, you’ll get a better feel for how much variability there can be in slopes and intercepts when there’s no true relationship between `X` and `Y`. Using your observations and analysis will allow you to get a better and deep understanding of Linear Regression.
+# jonahg-assignment-6
